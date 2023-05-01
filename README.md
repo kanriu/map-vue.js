@@ -1,24 +1,29 @@
-# maps-app
+# Es un proyecto del curso Vue.js: De cero a experto de Fernando Herrera
 
 ## Project setup
+
 ```
 yarn install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 yarn serve
 ```
 
 ### Compiles and minifies for production
+
 ```
 yarn build
 ```
 
 ### Lints and fixes files
+
 ```
 yarn lint
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
